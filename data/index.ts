@@ -76,7 +76,7 @@ export const navItems = [
       des: "TypeScript First Assignment Submission (All 45 Questions) by Syed Saood Ahmed",
       img: "/tech1.jpg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/js.svg"],
-      link: "/github.com/Saood-Ahmed/GenAI-Course-Tasks",
+      link: "https://github.com/Saood-Ahmed/GenAI-Course-Tasks",
     },
     {
       id: 2,
@@ -84,7 +84,7 @@ export const navItems = [
       des: "Whether you're planning your weekly grocery haul or need a few items for a special recipe, our app has got you covered.",
       img: "/cart-app.png",
       iconLists: ["/re.svg", "/bootstrap.svg", "/ts.svg"],
-      link: "/github.com/Saood-Ahmed/cart-app",
+      link: "https://github.com/Saood-Ahmed/cart-app",
     },
     {
       id: 3,
@@ -92,7 +92,7 @@ export const navItems = [
       des: "Take charge of your finances today with Smart Budget Tracker. Download now and start managing your budget like a pro with the power of React and the reliability of GitHub Actions.",
       img: "/grocery.avif",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/bootstrap.svg"],
-      link: "/my-exp-tracker-app.surge.sh/",
+      link: "https://my-exp-tracker-app.surge.sh/",
     },
     {
       id: 4,
@@ -100,7 +100,7 @@ export const navItems = [
       des: "Whether you’re a trivia enthusiast, a student, or just looking to challenge your knowledge, Our Quiz App has something for everyone.",
       img: "/quiz.avif",
       iconLists: ["/re.svg", "/bootstrap.svg", "/ts.svg"],
-      link: "/myquiz-app.surge.sh/",
+      link: "https://myquiz-app.surge.sh/",
     },
   ];
   
